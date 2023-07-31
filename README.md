@@ -18,5 +18,5 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=danielledeavila" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielledeavila&layout=compact&langs_count=8&card_width=200" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielledeavila&layout=compact&langs_count=8&card_width=180" />
 </a>
