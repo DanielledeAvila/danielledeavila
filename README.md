@@ -2,7 +2,7 @@
 - 🔭 Estou trabalhando com Front-end
 - 🌱 Estudando Phyton 
 - 😄 Meus pronomes: Ela/Dela
-<img menina height=100 align="right" src="gif menina.gif" alt="gifmenina"/>
+<img menina height=100 align="right" src="gif menina.gif" alt="gifmenina" loop autoplay/>
   
 ![Danielle de Avila GitHub stats](https://github-readme-stats.vercel.app/api?username=danielledeavila&show_icons=true&theme=radical)
 
