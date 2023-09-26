@@ -3,7 +3,7 @@
 - 🌱 Estudando Phyton 
 - 😄 Meus pronomes: Ela/Dela
 
-<img menina height=100 align="right" src="gifmenina.gif" alt="gifmenina" loop autoplay/>
+<img menina height=100 align="right" src="gifmenina.gif" alt="gifmenina" loop=infinite/>
   
 ![Danielle de Avila GitHub stats](https://github-readme-stats.vercel.app/api?username=danielledeavila&show_icons=true&theme=radical)
 
