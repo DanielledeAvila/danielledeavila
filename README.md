@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo!
-- 🔭 Estou trabalhando com Front-end
-- 🌱 Estudando Phyton 
-- 😄 Meus pronomes: Ela/Dela
+- 👩 Estou trabalhando com Front-end
+- 🎮💻 Gosto de jogos e tecnologia
+- 🚹 Meus pronomes: Ela/Dela
 
 <img menina height=100 align="right" src="gifmenina.gif" alt="gifmenina" autoplay loop/>
 
