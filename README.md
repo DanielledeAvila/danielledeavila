@@ -3,7 +3,7 @@
 - 🎮💻 Gosto de jogos e tecnologia
 - 🚹 Meus pronomes: Ela/Dela
 
-<img menina height=100 align="right" src="gifmenina.gif" alt="gifmenina" autoplay loop/>
+<img menina height=200 align="right" src="gifmenina.gif" alt="gifmenina" autoplay loop/>
 
   
 ![Danielle de Avila GitHub stats](https://github-readme-stats.vercel.app/api?username=danielledeavila&show_icons=true&theme=radical)
