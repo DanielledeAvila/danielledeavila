@@ -1,5 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=DanielldeAvila&color=ff1493">
-<img align="center" display="block" src="Olá, seja bem vindo!.gif" width="500" height="500" margin="0">
+
+
 
 - 👩 Estou trabalhando com Front-end
 - 🎮💻 Gosto de jogos e tecnologia
