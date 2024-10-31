@@ -1,9 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=DanielldeAvila&color=ff1493"><br>
 
-<a href="https://github.com/DanielledeAvila">
-    <img align="center" src="Olá, seja bem vindo!.gif
-" width="500">
-  </a>
+
+<img align="center" src="Olá, seja bem vindo!.gif" width="500">
+
   
 <div align="center">
   <a href="https://git.io/typing-svg">
