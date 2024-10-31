@@ -1,15 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=DanielldeAvila&color=ff1493"><br>
 
-
-<img align="center" src="Olá, seja bem vindo!.gif" width="500">
-
-  
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&color=FF1493&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá+,+seja+bem+vindo!+%E2%8A%B9+ " alt="Typing SVG">
-  </a>
-</div>
-
+<img align="center" src="Olá, seja bem vindo!.gif" width="300">
 
 - 👩 Estou trabalhando com Front-end
 - 🎮💻 Gosto de jogos e tecnologia
