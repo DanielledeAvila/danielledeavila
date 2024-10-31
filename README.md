@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=DanielldeAvila&color=ff1493">
-
+<img align="center" src="sejabemvindo.gif" width="1300">
 
 
 - 👩 Estou trabalhando com Front-end
