@@ -30,3 +30,8 @@
 </div>
 
 ![Snake animation](https://github.com/DanielledeAvila/DanielledeAvila/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<div align="center">
+        <img alt="Visitor Stats" src="https://widgetbite.com/stats/<DanielledeAvila>"  width="300" height="200"/>  
+</div>  
