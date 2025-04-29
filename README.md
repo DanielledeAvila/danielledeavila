@@ -2,7 +2,7 @@
 <img align="center" src="sejabemvindo.gif" width="1300">
 
 
-- 👩 Estou trabalhando com Front-end
+- 👩 Desenvolvedora full-stack
 - 🎮💻 Gosto de jogos e tecnologia
 - 🚹 Meus pronomes: Ela/Dela
 
